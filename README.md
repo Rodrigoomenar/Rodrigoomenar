@@ -13,10 +13,12 @@ Olá! Sou Rodrigo Germano Omena 👋
   <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rodrigoomenar&layout=compact&langs_count=7&theme=dark"/>
 </div>
  
+  ## 
+  
 <div style="display: inline_block"><br>
-<img align="center" alt="Rodrigo-Kotlin" height="50" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original-wordmark.svg">  
-<img align="center" alt="Rodrigo-Android" height="70" width="90" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original-wordmark.svg">
-<img align="center" alt="Rodrigo-Android" height="70" width="90" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gradle/gradle-plain-wordmark.svg">
+<img align="center" alt="Rodrigo-Kotlin" height="60" width="120" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original-wordmark.svg">  
+<img align="center" alt="Rodrigo-Android" height="90" width="180" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original-wordmark.svg">
+<img align="center" alt="Rodrigo-Android" height="90" width="180" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gradle/gradle-plain-wordmark.svg">
 </div>
   
   ##
